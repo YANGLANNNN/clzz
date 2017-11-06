@@ -6,11 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 
-export class AppComponent {
-  name = '王文军';
-  title = 'angular';
-  address = {
-    province: '福建的',
-    city: '厦门'
-  };
-}
+export class AppComponent {}
