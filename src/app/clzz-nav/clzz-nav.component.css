@@ -1,0 +1,131 @@
+body{
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:13px;
+  color: #FFFFFF;
+}
+#option_str1{
+  font-size: 18px;
+}
+
+.menu:hover, .menu:active{
+  background:url("../../assets/lefttabdown_o.png");
+}
+#option1{
+  height: 52px;
+}
+#menu_img1{
+  background: url("../../assets/icon_menues.png") -0px 4px;
+  width: 43px;
+  height: 40px;
+}
+#option1 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option2{
+  height: 52px;
+}
+.menu{
+  font-weight: bold;
+  text-shadow: 1px 1px 0px black;
+  width: 189px;
+  height: 52px;
+  font-family: verdana;
+  font-size: 12px;
+  text-align: left;
+  position: relative;
+  margin-top: -2px;
+  background: url("../../assets/lefttabdown_n.png");
+}
+#menu_img2{
+  background: url("../../assets/icon_menues.png") -0px -36px;
+  width: 43px;
+  height: 40px;
+}
+#option2 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option3{
+  height: 52px;
+}
+#menu_img3{
+  background: url("../../assets/icon_menues.png") -0px -73px;
+  width: 43px;
+  height: 40px;
+}
+#option3 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option5{
+  height: 52px;
+}
+#menu_img5{
+  background: url("../../assets/icon_menues.png") -0px -109px;
+  width: 43px;
+  height: 40px;
+}
+#option5 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option6{
+  height: 52px;
+}
+#menu_img6{
+  background: url("../../assets/icon_menues.png") -0px -145px;
+  width: 43px;
+  height: 40px;
+}
+#option6 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option7{
+  height: 52px;
+}
+#menu_img7{
+  background: url("../../assets/icon_menues.png") -0px -183px;
+  width:43px;
+  height: 40px;
+}
+#option7 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option8{
+  height: 52px;
+}
+#menu_img8{
+  background: url("../../assets/icon_menues.png") -0px -221px;
+  width: 43px;
+  height: 40px;
+}
+#option8 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000);
+}
+
+#option9{
+  height: 52px;
+}
+#menu_img9{
+  background: url("../../assets/icon_menues.png") -0px -257px;
+  width: 43px;
+  height: 40px;
+}
+#option9 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000) ;
+}
+
+#option10{
+  height: 52px;
+}
+#menu_img10{
+  background: url("../../assets/icon_menues.png") -0px -293px;
+  width: 43px;
+  height: 40px;
+}
+#option10 div#option_str1{
+  filter:progid:DXImageTransform.Microsoft.DropShadow(OffX=1, OffY=1, Color=#000000) ;
+}
